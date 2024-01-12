@@ -1,0 +1,68 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#header {
+    background-image: url(./saintj.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.logo {
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.logo h4{
+    color: red;
+}
+
+.logo p {
+    font-size: 9px;
+}
+
+.container {
+    padding: 20px;
+}
+
+.container h1 {
+    color:  red;
+    width: 70%;
+    margin-top: 1rem;
+    margin-left: 3rem;
+    font-size: 45px;
+}
+
+.container p {
+    margin-left: 3rem;
+    font-size: 18px;
+    color: blue;
+}
+
+/* .container::before {
+    content: '';
+    width: 10px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 20px;
+    left: 0;
+    margin-left: 30px;
+  } */
+
+  .fa-arrow-left {
+    color: blue;
+  }
+
+  .ola img{
+    width: 100%;
+  }
+
+  .ola{
+    padding: 30px;
+  }
